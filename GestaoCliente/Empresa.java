@@ -1,7 +1,6 @@
 package GestaoCliente;
 
-public class Cliente {
-
+public class Empresa {
 
 
 }
