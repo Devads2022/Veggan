@@ -2,7 +2,7 @@ package GestaoCliente;
 
 public class Endereco {          // FALTA FAZER OS CODIGOS DE VALIDAR E EDITAR ENDEREÇO
 
-    String cep, uf, cidade, bairro, logradouro, numero, complemento;
+    private String cep, uf, cidade, bairro, logradouro, numero, complemento;
 
     public Endereco(String cep, String uf, String cidade, String bairro, String logradouro, String numero, String complemento) {
         this.cep = cep;
